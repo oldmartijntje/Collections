@@ -1,4 +1,5 @@
 @echo off
+color a
 set /p message=[message]
 git add .
 git status
